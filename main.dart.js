@@ -9769,11 +9769,11 @@ case 1:return"quick_camerea_text"
 case 2:return"nordeste_api_text"
 case 3:return"guazuApp_text"
 case 4:return"myResume_text"}},
-aPP(a){switch(a.a){case 0:return"assets/images/cncad.jpeg"
-case 1:return"assets/images/quick_camera.jpg"
-case 2:return"assets/images/nordeste_api_white.jpg"
-case 3:return"assets/images/guazuapp.jpg"
-case 4:return"assets/images/my_resume.jpg"}},
+aPP(a){switch(a.a){case 0:return"assets/assets/images/cncad.jpeg"
+case 1:return"assets/assets/images/quick_camera.jpg"
+case 2:return"assets/assets/images/nordeste_api_white.jpg"
+case 3:return"assets/assets/images/guazuapp.jpg"
+case 4:return"assets/assets/images/my_resume.jpg"}},
 ayk(a){var s
 switch(a.a){case 0:s=t.N
 return A.as(["cnc_cad_name_link1","https://cnc-project-study.github.io/"],s,s)
@@ -48806,7 +48806,7 @@ n=k.x
 m=k.f
 m===$&&A.b()
 l=t.p
-return A.dK(!1,A.mo(A.iP(A.d7(A.a([new A.a8(B.c_,p,j),new A.a8(B.aa,r,j),new A.a8(B.I9,new A.dD(B.bX,j,j,o,j),j),A.SP(A.dK(!1,new A.a8(B.fu,A.aBm(j,A.a([A.a9Y("assets/images/1.png"),A.a9Y("assets/images/2.png"),A.a9Y("assets/images/3.png"),A.a9Y("assets/images/4.png")],l),A.aBl(1.7777777777777777,!0,B.cK,B.aA,B.bd,!0,!0,0.3,150,0,new A.anH(),!1,B.Z,0.8)),j),m),B.am,n)],l),B.G,B.L,B.S),s,B.H,j,B.I),s,10,B.a4,j,j,30,A.ik(),B.q,B.aP,j,j,q,!0,B.b_,j),i)}}
+return A.dK(!1,A.mo(A.iP(A.d7(A.a([new A.a8(B.c_,p,j),new A.a8(B.aa,r,j),new A.a8(B.I9,new A.dD(B.bX,j,j,o,j),j),A.SP(A.dK(!1,new A.a8(B.fu,A.aBm(j,A.a([A.a9Y("assets/assets/images/1.png"),A.a9Y("assets/assets/images/2.png"),A.a9Y("assets/assets/images/3.png"),A.a9Y("assets/assets/images/4.png")],l),A.aBl(1.7777777777777777,!0,B.cK,B.aA,B.bd,!0,!0,0.3,150,0,new A.anH(),!1,B.Z,0.8)),j),m),B.am,n)],l),B.G,B.L,B.S),s,B.H,j,B.I),s,10,B.a4,j,j,30,A.ik(),B.q,B.aP,j,j,q,!0,B.b_,j),i)}}
 A.anG.prototype={
 $0(){var s=this.a
 s.aa(new A.anD(s))},
