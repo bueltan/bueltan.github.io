@@ -9688,11 +9688,11 @@ case 1:return"quick_camerea_text"
 case 2:return"nordeste_api_text"
 case 3:return"guazuApp_text"
 case 4:return"myResume_text"}},
-aPt(a){switch(a.a){case 0:return"assets/assets/images/cncad.jpeg"
-case 1:return"assets/assets/images/quick_camera.jpg"
-case 2:return"assets/assets/images/nordeste_api_white.jpg"
-case 3:return"assets/assets/images/guazuapp.jpg"
-case 4:return"assets/assets/images/my_resume.jpg"}},
+aPt(a){switch(a.a){case 0:return"assets/images/cncad.jpeg"
+case 1:return"assets/images/quick_camera.jpg"
+case 2:return"assets/images/nordeste_api_white.jpg"
+case 3:return"assets/images/guazuapp.jpg"
+case 4:return"assets/images/my_resume.jpg"}},
 ay1(a){var s
 switch(a.a){case 0:s=t.N
 return A.as(["cnc_cad_name_link1","https://cnc-project-study.github.io/"],s,s)
