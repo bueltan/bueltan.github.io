@@ -9607,11 +9607,12 @@ case 2:return"sysadmin"
 case 3:return"soft_skills"
 case 4:return"full_stack_developer"
 case 5:return""}},
-aam(a){switch(a.a){case 0:return"/assets/icons/programming_icon.svg"
+aam(a){var s="/assets/icons/sysadmin_icon.svg"
+switch(a.a){case 0:return"/assets/icons/programming_icon.svg"
 case 1:return"/assets/icons/electronics_icon.svg"
-case 2:return"sysadmin"
+case 2:return s
 case 3:return"/assets/icons/soft_skills_icon.svg"
-case 4:return"/assets/icons/sysadmin_icon.svg"
+case 4:return s
 case 5:return""}},
 nT:function nT(a,b){this.a=a
 this.b=b},
@@ -9687,11 +9688,11 @@ case 1:return"quick_camerea_text"
 case 2:return"nordeste_api_text"
 case 3:return"guazuApp_text"
 case 4:return"myResume_text"}},
-aPt(a){switch(a.a){case 0:return"/assets/images/projects/cncad.jpeg"
-case 1:return"/assets/images/projects/quick_camera.jpg"
-case 2:return"/assets/images/projects/nordeste_api_white.jpg"
-case 3:return"/assets/images/projects/guazuapp.jpg"
-case 4:return"/assets/images/projects/my_resume.jpg"}},
+aPt(a){switch(a.a){case 0:return"assets/images/projects/cncad.jpeg"
+case 1:return"assets/images/projects/quick_camera.jpg"
+case 2:return"assets/images/projects/nordeste_api_white.jpg"
+case 3:return"assets/images/projects/guazuapp.jpg"
+case 4:return"assets/images/projects/my_resume.jpg"}},
 ay1(a){var s
 switch(a.a){case 0:s=t.N
 return A.as(["cnc_cad_name_link1","https://cnc-project-study.github.io/"],s,s)
@@ -48646,13 +48647,13 @@ s===$&&A.b()
 r=B.d.av(127.5)
 q=A.Z(r,124,77,255)
 p=A.br(A.aJ("electronic"),j,j,j,B.eU,B.ag,j)
-r=A.oK("images/electronics.svg",A.Z(r,105,240,174),150)
+r=A.oK("/assets/images/electronics.svg",A.Z(r,105,240,174),150)
 o=A.ng(A.a([A.oS(A.aJ("electronic_text"),B.T,B.fs,B.Q,B.eS)],t.u6),!0,!1,new A.anq(k),new A.anr(k),B.fo,!1,1)
 n=k.x
 m=k.f
 m===$&&A.b()
 l=t.p
-return A.dK(!1,A.mn(A.iL(A.d7(A.a([new A.a8(B.c_,p,j),new A.a8(B.a9,r,j),new A.a8(B.I9,new A.dD(B.bX,j,j,o,j),j),A.SH(A.dK(!1,new A.a8(B.fu,A.aB3(j,A.a([A.MN("images/1.jpg"),A.MN("images/2.jpg"),A.MN("images/3.jpg"),A.MN("images/4.jpg")],l),A.aB2(1.7777777777777777,!0,B.cK,B.aA,B.bd,!0,!0,0.3,150,0,new A.ans(),!1,B.Z,0.8)),j),m),B.am,n)],l),B.G,B.L,B.S),s,B.H,j,B.I),s,10,B.a4,j,j,30,A.ig(),B.q,B.aP,j,j,q,!0,B.b_,j),i)}}
+return A.dK(!1,A.mn(A.iL(A.d7(A.a([new A.a8(B.c_,p,j),new A.a8(B.a9,r,j),new A.a8(B.I9,new A.dD(B.bX,j,j,o,j),j),A.SH(A.dK(!1,new A.a8(B.fu,A.aB3(j,A.a([A.MN("assets/images/1.jpg"),A.MN("assets/images/2.jpg"),A.MN("assets/images/3.jpg"),A.MN("assets/images/4.jpg")],l),A.aB2(1.7777777777777777,!0,B.cK,B.aA,B.bd,!0,!0,0.3,150,0,new A.ans(),!1,B.Z,0.8)),j),m),B.am,n)],l),B.G,B.L,B.S),s,B.H,j,B.I),s,10,B.a4,j,j,30,A.ig(),B.q,B.aP,j,j,q,!0,B.b_,j),i)}}
 A.anr.prototype={
 $0(){var s=this.a
 s.aa(new A.ano(s))},
@@ -48848,7 +48849,7 @@ s=this.f
 s===$&&A.b()
 r=B.d.av(127.5)
 q=A.Z(r,124,77,255)
-return A.dK(!1,A.mn(A.iL(A.d7(A.a([new A.a8(B.c_,A.br(A.aJ("soft_skills"),p,p,p,B.eU,B.Q,p),p),new A.a8(B.a9,A.oK("images/soft_skills.svg",A.Z(r,105,240,174),p),p),new A.a8(B.n4,A.br(A.aJ("soft_skills_text"),p,p,p,B.eS,p,p),p)],t.p),B.G,B.L,B.S),s,B.H,p,B.I),s,10,B.a4,p,p,30,A.ig(),B.q,B.aP,p,p,q,!0,B.b_,p),o)}}
+return A.dK(!1,A.mn(A.iL(A.d7(A.a([new A.a8(B.c_,A.br(A.aJ("soft_skills"),p,p,p,B.eU,B.Q,p),p),new A.a8(B.a9,A.oK("/assets/images/soft_skills.svg",A.Z(r,105,240,174),p),p),new A.a8(B.n4,A.br(A.aJ("soft_skills_text"),p,p,p,B.eS,p,p),p)],t.p),B.G,B.L,B.S),s,B.H,p,B.I),s,10,B.a4,p,p,30,A.ig(),B.q,B.aP,p,p,q,!0,B.b_,p),o)}}
 A.IB.prototype={
 ba(){this.bA()
 this.bo()
@@ -48882,7 +48883,7 @@ s=this.f
 s===$&&A.b()
 r=B.d.av(127.5)
 q=A.Z(r,124,77,255)
-return A.dK(!1,A.mn(A.iL(A.d7(A.a([new A.a8(B.c_,A.br(A.aJ("sysadmin"),p,p,p,B.eU,B.Q,p),p),new A.a8(B.a9,A.oK("images/sysadmin.svg",A.Z(r,105,240,174),180),p),new A.a8(B.n4,A.br(A.aJ("sysadmin_text"),p,p,p,B.eS,p,p),p)],t.p),B.G,B.L,B.S),s,B.H,p,B.I),s,10,B.a4,p,p,30,A.ig(),B.q,B.aP,p,p,q,!0,B.b_,p),o)}}
+return A.dK(!1,A.mn(A.iL(A.d7(A.a([new A.a8(B.c_,A.br(A.aJ("sysadmin"),p,p,p,B.eU,B.Q,p),p),new A.a8(B.a9,A.oK("/assets/images/sysadmin.svg",A.Z(r,105,240,174),180),p),new A.a8(B.n4,A.br(A.aJ("sysadmin_text"),p,p,p,B.eS,p,p),p)],t.p),B.G,B.L,B.S),s,B.H,p,B.I),s,10,B.a4,p,p,30,A.ig(),B.q,B.aP,p,p,q,!0,B.b_,p),o)}}
 A.ID.prototype={
 ba(){this.bA()
 this.bo()
