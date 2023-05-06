@@ -48902,12 +48902,12 @@ r=a.ax
 l=A.aBO(s,A.aC8(r?B.IV:B.IT,B.A,35),!1,new A.a9o(l),new A.j8(k,B.x))
 k=r?B.u:B.cu
 s=r?B.u:B.cu
-r=i?A.bx(m,m,B.l,m,m,B.Bw,m,m,m,m,m,m,m):B.PA
-q=i?A.bx(m,m,B.l,m,m,B.Bu,m,m,m,m,m,m,m):B.Pq
-p=i?A.bx(m,m,B.l,m,m,B.Bt,m,m,m,m,m,m,m):B.Px
+r=i?A.bx(m,m,B.l,m,m,B.Bu,m,m,m,m,m,m,m):B.PA
+q=i?A.bx(m,m,B.l,m,m,B.Bt,m,m,m,m,m,m,m):B.Pq
+p=i?A.bx(m,m,B.l,m,m,B.Bv,m,m,m,m,m,m,m):B.Px
 o=i?A.bx(m,m,B.l,m,m,B.Bq,m,m,m,m,m,m,m):B.Ps
-n=i?A.bx(m,m,B.l,m,m,B.Bv,m,m,m,m,m,m,m):B.Py
-r=A.a([r,q,p,o,n,i?A.bx(m,m,B.l,m,m,B.Bs,m,m,m,m,m,m,m):B.Pr],t.p)
+n=i?A.bx(m,m,B.l,m,m,B.Br,m,m,m,m,m,m,m):B.Py
+r=A.a([r,q,p,o,n,i?A.bx(m,m,B.l,m,m,B.By,m,m,m,m,m,m,m):B.Pr],t.p)
 return new A.rg(A.aB7(new A.cn(k,B.u,s,B.u),new A.v1(!1,B.I,!1,a.ch,m,!0,new A.a9p(a),new A.ahy(r,A.as([null,0],t.LO,t.S)),B.v,m,!0,m)),new A.a8(B.a9,l,m),B.CF,B.J,m)},
 $S:530}
 A.a9o.prototype={
@@ -48929,7 +48929,7 @@ A.Oi.prototype={
 G(a){return A.ey(new A.acK(),null,"PageState",null,null,t.d)}}
 A.acK.prototype={
 $1(a){var s=null,r=a.ax?0.7:0.5
-return A.dn(B.aj,A.a([A.tn(A.bx(s,s,B.l,s,s,B.Bx,s,s,s,s,s,s,s),B.V,B.aZ,r),new A.yP(a,s)],t.p),B.v,B.af)},
+return A.dn(B.aj,A.a([A.tn(A.bx(s,s,B.l,s,s,B.Bw,s,s,s,s,s,s,s),B.V,B.aZ,r),new A.yP(a,s)],t.p),B.v,B.af)},
 $S:59}
 A.yP.prototype={
 a0(){return new A.TW(null,null,B.i)}}
@@ -48992,7 +48992,7 @@ A.RF.prototype={
 G(a){return B.Po}}
 A.MO.prototype={
 G(a){var s=null,r=A.lB(A.Z(204,255,255,255),10)
-return new A.a8(B.n3,A.dK(!1,A.bx(s,s,B.l,s,B.Bj,new A.bA(s,A.Lc(B.b4,B.Ai,this.d.c.ax?1:0.9),r,B.cD,s,s,B.C),s,s,s,s,s,s,s),this.c),s)}}
+return new A.a8(B.n3,A.dK(!1,A.bx(s,s,B.l,s,B.Bj,new A.bA(s,A.Lc(B.b4,B.Aj,this.d.c.ax?1:0.9),r,B.cD,s,s,B.C),s,s,s,s,s,s,s),this.c),s)}}
 A.S7.prototype={
 G(a){var s=null
 return A.fu(new A.a8(B.I8,A.dK(!1,A.br(A.aJ("about_me_title"),s,s,s,B.eT,B.ag,s),this.c),s),s,s)}}
@@ -49109,7 +49109,7 @@ s===$&&A.b()
 s.aH(0)
 return A.ey(new A.aq5(this),null,"PageState",null,null,t.d)}}
 A.aq5.prototype={
-$1(a){var s,r,q,p=null,o=a.ax,n=A.bx(p,p,B.l,p,p,new A.bA(p,A.Lc(B.b4,B.Ah,o?0.7:0.5),p,p,p,p,B.C),p,p,p,p,p,p,p)
+$1(a){var s,r,q,p=null,o=a.ax,n=A.bx(p,p,B.l,p,p,new A.bA(p,A.Lc(B.b4,B.Ai,o?0.7:0.5),p,p,p,p,B.C),p,p,p,p,p,p,p)
 o=o?0:325
 s=A.br(A.aJ("_contact"),p,p,p,B.eT,B.ag,p)
 r=this.a.d
@@ -49255,7 +49255,7 @@ s===$&&A.b()
 s.aH(0)
 return A.ey(new A.aq8(this),null,"PageState",null,null,t.d)}}
 A.aq8.prototype={
-$1(a){var s,r,q,p,o,n=null,m=a.ax,l=A.bx(n,n,B.l,n,n,new A.bA(n,A.Lc(B.b4,B.Al,m?0.4:0.5),n,n,n,n,B.C),n,n,n,n,n,n,n)
+$1(a){var s,r,q,p,o,n=null,m=a.ax,l=A.bx(n,n,B.l,n,n,new A.bA(n,A.Lc(B.b4,B.An,m?0.4:0.5),n,n,n,n,B.C),n,n,n,n,n,n,n)
 m=m?0:325
 s=A.Z(51,0,0,0)
 r=A.br(A.aJ("_experience"),n,n,n,B.eT,B.ag,n)
@@ -49304,7 +49304,7 @@ s.aH(0)
 return A.ey(new A.aqb(),null,"PageState",null,null,t.d)}}
 A.aqb.prototype={
 $1(a){var s=null,r="AtomController",q=t.bD
-return A.dn(B.aj,A.a([A.bx(s,s,B.l,s,s,new A.bA(s,A.Lc(B.b4,B.Aj,a.ax?0.7:0.5),s,s,s,s,B.C),s,s,s,s,s,s,s),A.ey(new A.aq9(),s,r,s,s,q),A.ey(new A.aqa(a),s,r,s,s,q)],t.p),B.v,B.af)},
+return A.dn(B.aj,A.a([A.bx(s,s,B.l,s,s,new A.bA(s,A.Lc(B.b4,B.Ak,a.ax?0.7:0.5),s,s,s,s,B.C),s,s,s,s,s,s,s),A.ey(new A.aq9(),s,r,s,s,q),A.ey(new A.aqa(a),s,r,s,s,q)],t.p),B.v,B.af)},
 $S:59}
 A.aq9.prototype={
 $1(a){var s=null
@@ -49366,7 +49366,7 @@ s===$&&A.b()
 s.aH(0)
 return A.ey(new A.aqc(this),null,"PageState",null,null,t.d)}}
 A.aqc.prototype={
-$1(a){var s,r,q,p,o,n,m=null,l=a.ax,k=A.bx(m,m,B.l,m,m,new A.bA(m,A.Lc(B.b4,B.Ak,l?0.7:0.5),m,m,m,m,B.C),m,m,m,m,m,m,m)
+$1(a){var s,r,q,p,o,n,m=null,l=a.ax,k=A.bx(m,m,B.l,m,m,new A.bA(m,A.Lc(B.b4,B.Am,l?0.7:0.5),m,m,m,m,B.C),m,m,m,m,m,m,m)
 l=l?0:325
 s=A.Z(51,0,0,0)
 r=A.br(A.aJ("_projects"),m,m,m,B.eT,B.ag,m)
@@ -49451,7 +49451,7 @@ return A.dn(B.aj,A.a([new A.ft(new A.aqf(o),p),r,A.BO(p,A.bY(new A.dD(B.d9,p,p,A
 $S:633}
 A.aqf.prototype={
 $1(a){var s=null,r=this.a.ax?0.4:0.5
-return A.tn(A.bx(s,s,B.l,s,s,B.By,s,s,s,s,s,s,s),B.V,B.aZ,r)},
+return A.tn(A.bx(s,s,B.l,s,s,B.Bx,s,s,s,s,s,s,s),B.V,B.aZ,r)},
 $S:635}
 A.Ni.prototype={
 G(a){var s=this.c?B.I:B.Z
@@ -50115,7 +50115,7 @@ qZ(a,b){return B.h}}
 A.a0i.prototype={}
 A.KV.prototype={
 G(a){var s=null,r=A.bM(a,B.bD,t.w).w.f.b+8,q=this.c.X(0,new A.k(8,r)),p=A.d7(this.d,B.G,B.L,B.bM),o=$.a6().SQ(20,20,B.bc)
-return new A.a8(new A.ab(8,r,8,8),new A.nA(new A.Ln(q),A.bx(s,A.aLe(A.pQ(new A.a8(B.n5,p,s),new A.bA(B.GM.dZ(a),s,A.lB(B.GL.dZ(a),1),B.cD,s,s,B.C),B.cm),o),B.v,s,s,B.Br,s,s,s,s,s,s,222),s),s)}}
+return new A.a8(new A.ab(8,r,8,8),new A.nA(new A.Ln(q),A.bx(s,A.aLe(A.pQ(new A.a8(B.n5,p,s),new A.bA(B.GM.dZ(a),s,A.lB(B.GL.dZ(a),1),B.cD,s,s,B.C),B.cm),o),B.v,s,s,B.Bs,s,s,s,s,s,s,222),s),s)}}
 A.pM.prototype={
 a0(){return new A.F5(B.i)}}
 A.F5.prototype={
@@ -94363,11 +94363,11 @@ B.i7=new A.y4(0,"polite")
 B.Ab=new A.Jq(0,"polite")
 B.i8=new A.y4(1,"assertive")
 B.lu=new A.Jq(1,"assertive")
-B.Ah=new A.ew("assets/images/background_space_cupula_soyus.jpg",null,null)
-B.Ai=new A.ew("/assets/images/denis_profile.jpg",null,null)
-B.Aj=new A.ew("assets/images/background_apollo_control.jpg",null,null)
-B.Ak=new A.ew("assets/images/background_space_cupola.jpg",null,null)
-B.Al=new A.ew("assets/images/background_nasa_control.jpg",null,null)
+B.Ai=new A.ew("assets/images/background_space_cupula_soyus.jpg",null,null)
+B.Aj=new A.ew("/assets/images/denis_profile.jpg",null,null)
+B.Ak=new A.ew("assets/images/background_apollo_control.jpg",null,null)
+B.Am=new A.ew("assets/images/background_space_cupola.jpg",null,null)
+B.An=new A.ew("assets/images/background_nasa_control.jpg",null,null)
 B.c4=A.a(s([]),t.s)
 B.k=new A.DM(1,"downstream")
 B.hK=new A.i4(-1,-1,B.k,!1,-1,-1)
@@ -94450,39 +94450,39 @@ B.ih=new A.ae(0,400,0,1/0)
 B.Bo=new A.ae(0,650,0,1/0)
 B.cE=new A.ae(0,1/0,0,1/0)
 B.Bp=new A.ae(48,1/0,48,1/0)
-B.Ac=new A.ew("images/background_nasa_control.jpg",null,null)
+B.Af=new A.ew("/assets/images/background_nasa_control.jpg",null,null)
 B.b4=new A.yh(2,"cover")
 B.cR=new A.ut(3,"noRepeat")
 B.dj=new A.q5(1,"low")
-B.H3=new A.iu(B.Ac,B.b4,1)
+B.H5=new A.iu(B.Af,B.b4,1)
 B.C=new A.JQ(0,"rectangle")
-B.Bq=new A.bA(null,B.H3,null,null,null,null,B.C)
+B.Bq=new A.bA(null,B.H5,null,null,null,null,B.C)
+B.Ac=new A.ew("/assets/images/background_space_cupola.jpg",null,null)
+B.H4=new A.iu(B.Ac,B.b4,1)
+B.Br=new A.bA(null,B.H4,null,null,null,null,B.C)
 B.Dp=new A.I(1006632960)
 B.OP=new A.k(0,4)
 B.BD=new A.dW(0.5,B.cC,B.Dp,B.OP,10)
 B.LU=A.a(s([B.BD]),t.sq)
-B.Br=new A.bA(null,null,null,B.cD,B.LU,null,B.C)
-B.Ag=new A.ew("images/background_space_cupula_soyus.jpg",null,null)
-B.H1=new A.iu(B.Ag,B.b4,1)
-B.Bs=new A.bA(null,B.H1,null,null,null,null,B.C)
-B.Ad=new A.ew("images/background_apollo_control.jpg",null,null)
-B.H6=new A.iu(B.Ad,B.b4,1)
-B.Bt=new A.bA(null,B.H6,null,null,null,null,B.C)
-B.Ao=new A.ew("images/about_me_background.jpg",null,null)
-B.H4=new A.iu(B.Ao,B.b4,1)
-B.Bu=new A.bA(null,B.H4,null,null,null,null,B.C)
-B.Ae=new A.ew("images/background_space_cupola.jpg",null,null)
+B.Bs=new A.bA(null,null,null,B.cD,B.LU,null,B.C)
+B.Ag=new A.ew("/assets/images/about_me_background.jpg",null,null)
+B.H0=new A.iu(B.Ag,B.b4,1)
+B.Bt=new A.bA(null,B.H0,null,null,null,null,B.C)
+B.Ad=new A.ew("/assets/images/background_welcome.jpg",null,null)
+B.H2=new A.iu(B.Ad,B.b4,1)
+B.Bu=new A.bA(null,B.H2,null,null,null,null,B.C)
+B.Ae=new A.ew("/assets/images/background_apollo_control.jpg",null,null)
 B.H7=new A.iu(B.Ae,B.b4,1)
 B.Bv=new A.bA(null,B.H7,null,null,null,null,B.C)
-B.An=new A.ew("images/background_welcome.jpg",null,null)
-B.H5=new A.iu(B.An,B.b4,1)
-B.Bw=new A.bA(null,B.H5,null,null,null,null,B.C)
-B.Af=new A.ew("assets/images/about_me_background.jpg",null,null)
-B.H0=new A.iu(B.Af,B.b4,1)
-B.Bx=new A.bA(null,B.H0,null,null,null,null,B.C)
-B.Am=new A.ew("assets/images/background_welcome.jpg",null,null)
-B.H2=new A.iu(B.Am,B.b4,1)
-B.By=new A.bA(null,B.H2,null,null,null,null,B.C)
+B.Ah=new A.ew("assets/images/about_me_background.jpg",null,null)
+B.H1=new A.iu(B.Ah,B.b4,1)
+B.Bw=new A.bA(null,B.H1,null,null,null,null,B.C)
+B.Ao=new A.ew("assets/images/background_welcome.jpg",null,null)
+B.H3=new A.iu(B.Ao,B.b4,1)
+B.Bx=new A.bA(null,B.H3,null,null,null,null,B.C)
+B.Al=new A.ew("/assets/images/background_space_cupula_soyus.jpg",null,null)
+B.H6=new A.iu(B.Al,B.b4,1)
+B.By=new A.bA(null,B.H6,null,null,null,null,B.C)
 B.Bz=new A.yh(1,"contain")
 B.lF=new A.yh(6,"scaleDown")
 B.db=new A.JN(0,"tight")
