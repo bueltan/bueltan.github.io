@@ -9666,7 +9666,7 @@ case 1:return 2
 case 2:return 3
 case 3:return 4
 case 4:return 5}},
-aNi(a){switch(a.a){case 0:return"/images/about_me.svg"
+aNi(a){switch(a.a){case 0:return"assets/images/about_me.svg"
 case 1:return"assets/images/knowledge.svg"
 case 2:return"assets/images/experience.svg"
 case 3:return"assets/images/projects.svg"
