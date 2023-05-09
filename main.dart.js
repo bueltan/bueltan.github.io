@@ -9690,7 +9690,7 @@ case 3:return"guazuApp_text"
 case 4:return"myResume_text"}},
 aPt(a){switch(a.a){case 0:return"assets/images/cncad.jpeg"
 case 1:return"assets/images/quick_camera.jpg"
-case 2:return"assets/images/entity_api_white.jpg"
+case 2:return"assets/images/entity_api_white.png"
 case 3:return"assets/images/guazuapp.jpg"
 case 4:return"assets/images/my_resume.jpg"}},
 ay1(a){var s
