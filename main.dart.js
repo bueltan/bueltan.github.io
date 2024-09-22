@@ -26983,7 +26983,7 @@ p=o}else p=o
 J.j2(p,q)}return n},
 ayL(a,b,c,d){var s=0,r=A.P(t.y),q,p=2,o,n,m,l,k,j,i,h,g
 var $async$ayL=A.Q(function(e,f){if(e===1){o=f
-s=p}while(true)switch(s){case 0:j="https://docs.google.com/forms/u/0/d/e/1FAIpQLSftqGkBGI9t5pacNjP1ZEpx4qTA91C1jqPKeP1CfSTTmbkAHA/formResponse"
+s=p}while(true)switch(s){case 0:j="https://corsproxy.io/?https://docs.google.com/forms/u/0/d/e/1FAIpQLSftqGkBGI9t5pacNjP1ZEpx4qTA91C1jqPKeP1CfSTTmbkAHA/formResponse"
 i=t.N
 h=A.aA(["entry.1454721394",a,"entry.1458621759",b,"entry.1195818560",c,"entry.561337667",d],i,i)
 p=4
@@ -27020,7 +27020,7 @@ case 2:return A.M(o,r)}})
 return A.O($async$ayL,r)},
 Jb(a){var s=0,r=A.P(t.y),q,p=2,o,n,m,l,k,j,i,h,g
 var $async$Jb=A.Q(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:j="https://docs.google.com/forms/u/0/d/e/1FAIpQLSd5g7t7IE77mb3z5_oKoSILBOmYBuDhxjtSSlCMGYSoyXEmrA/formResponse"
+s=p}while(true)switch(s){case 0:j="https://corsproxy.io/?https://docs.google.com/forms/u/0/d/e/1FAIpQLSd5g7t7IE77mb3z5_oKoSILBOmYBuDhxjtSSlCMGYSoyXEmrA/formResponse"
 i=t.N
 h=A.aA(["entry.1701226609",a],i,i)
 p=4
