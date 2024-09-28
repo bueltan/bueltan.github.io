@@ -7921,15 +7921,15 @@ case 2:return 4}},
 aR1(a){switch(a.a){case 0:return"Python"
 case 2:return"Java"
 case 3:return"Dart"
-case 4:return"C++"
+case 4:return"C#"
 case 5:return"Rust"
 case 1:return"PHP"}},
 aR0(a){switch(a.a){case 0:return 9
 case 2:return 3
 case 3:return 7
-case 4:return 4
+case 4:return 5
 case 5:return 2
-case 1:return 4}},
+case 1:return 3}},
 aSn(a){switch(a.a){case 0:return"GraphQl"
 case 1:return"SQL"
 case 2:return"Others"}},
