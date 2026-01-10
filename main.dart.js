@@ -46009,7 +46009,7 @@ if(o<800)m=!0
 o=m?25:0
 n=m?25:0
 s=m&&!this.a?40:0
-r=m?360:800
+r=m?340:800
 q=m?B.O:B.ac
 return A.wT(B.mp,A.b([new A.Cs(p),new A.a8(new A.ac(0,s,0,25),A.c3(p,A.ek(A.vf(p,new A.a5h(),2,B.i9,q,!0),p,p),B.o,p,new A.a3(0,r,0,500),p,p,p,p,p,p,p,p),p)],t.p),n,o)},
 $S:350}
